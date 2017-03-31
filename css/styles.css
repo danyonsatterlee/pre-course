@@ -1,8 +1,12 @@
+
+*{
+  color: white;
+}
 #result{
   margin-top: 30%;
   background-color: black;
   height: 100px;
-  color: white;
+
 
 
 }
@@ -13,7 +17,7 @@ body{
 
 .btn-fortune{
   font-family: 'Metamorphous', cursive;
-  color:white;
+
   background-color:rgb(199, 50, 41);
 
 }
@@ -30,4 +34,10 @@ h2{
 form{
   margin-top: 50%;
 
+}
+
+#advertise{
+  font-family: 'Metamorphous', cursive;
+    font-size: 30px;
+  margin-top : 50px;
 }
